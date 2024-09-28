@@ -75,10 +75,8 @@ npm run dev
 
 ## Live URLs
 
-#### Live Project URL: https://flat-mate-finder.vercel.app/
-
-#### Live API URL: https://flat-sharing-app.vercel.app/api
-
+#### Live Project URL:
+#### Live API URL: 
 
 ## Contributing
 
